@@ -34,3 +34,11 @@
 1. 下载或克隆本仓库：
    ```bash
    git clone https://github.com/你的用户名/seed-counter.git
+快捷键	功能
+Enter	执行计数
+Backspace / Delete	撤销多边形上一个顶点
+Esc	重置选区
+C	切换手动校正模式
+P	切换二值化预览
+Space + 拖拽	平移画布（抓手模式）
+Ctrl/Cmd + 滚轮	缩放画布
